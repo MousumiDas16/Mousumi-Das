@@ -1,3 +1,3 @@
 # Mousumi-Das
-# JUnior at OU 
+# BS in Information Technology from Oakland University
 #Major Information system technology
